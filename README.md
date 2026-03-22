@@ -1,17 +1,41 @@
-# Hello hi! 👋
-🌱 I’m currently learning Machine Learning to leverage into Website Designing.
 
-🚀Passionate about blending technology and innovation to solve real-world problems.
+# Jahnvi Paliwal
 
-🔭Deep interest in computer vision, AI, and machine learning — especially in image detection, face recognition, and pose estimation.
+AI & Machine Learning professional specializing in **Computer Vision, Deep Learning, and AI Product Development**. Experienced in deploying end-to-end AI systems with production-ready pipelines.
 
-👯 Multilingual communicator: fluent in English and Hindi, with beginner proficiency in Korean and Gujarati.
+---
 
-Driven by curiosity and a commitment to empower others through technology and volunteering.
+## Core Skills
 
-## 🔗 Links
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnvi-p-389265296/)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
 
-📫 other ways reach me: email me at paliwaljnv08@gmail.com
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+
+![AI/ML](https://img.shields.io/badge/AI--ML-FF6F61?style=flat-square)
+
+![Deployment](https://img.shields.io/badge/Deployment-F7DF1E?style=flat-square)
+
+**Frameworks & Tools:** TensorFlow, Keras, PyTorch, Scikit-Learn, OpenCV, OpenPose, RAG, GPT agents, CNN, LSTM, Django, Flask, FastAPI, Streamlit, Docker, Git
+
+**Databases:** PostgreSQL, MongoDB, SQLite
+
+---
+
+
+## Experience
+
+**AI Developer Intern** – BPaaS Proceedit (2025)
+
+**AI Developer Intern** – CollegeTips.in (2025)
+
+**Software Engineering Intern** – Marvik Academy (2024)
+
+---
+
+## Contact
+
+* **LinkedIn:** [linkedin.com/in/jahnvipaliwal/](https://linkedin.com/in/jahnvipaliwal/)
+* **Email:** [paliwaljnv08@gmail.com](mailto:paliwaljnv08@gmail.com)
 
