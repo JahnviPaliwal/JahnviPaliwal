@@ -1,7 +1,7 @@
 
 # Jahnvi Paliwal
 
-AI & Machine Learning professional specializing in **Computer Vision, Deep Learning, and AI Product Development**. Experienced in deploying end-to-end AI systems with production-ready pipelines.
+AI & Machine Learning professional specializing in **Computer Vision, Deep Learning, and Machine Learning Pipelines**. Experienced in deploying end-to-end ML systems.
 
 
 
@@ -22,12 +22,7 @@ AI & Machine Learning professional specializing in **Computer Vision, Deep Learn
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
 
 
 
@@ -49,7 +44,7 @@ AI & Machine Learning professional specializing in **Computer Vision, Deep Learn
 
 ## Experience
 
-**AI Developer Intern** – BPaaS Proceedit (2025)
+**AI Developer Intern (Research Unit)** – BPaaS Proceedit (2025)
 
 **AI Developer Intern** – CollegeTips.in (2025)
 
