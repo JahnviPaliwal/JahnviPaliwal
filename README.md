@@ -23,9 +23,7 @@ Tools         Docker  Linux  Git  REST API  GraphQL
 
 ---
 
-## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JahnviPaliwal\&theme=transparent\&hide_border=true)
 
 ## Activity Graph
 
