@@ -59,16 +59,10 @@ grounded in real problems.
 **VINSE Intern at VLED Lab - IIT Ropar** (Ropar, India) . May-Jul 2025
 
 **AI Developer Intern — BPaaS Proceedit** (Barcelona, Spain) · Apr–Nov 2025
-Delivered novel ML and deep learning models achieving 98.7% accuracy, outperforming single-model baselines.
-Integrated models via GraphQL API, enabling 50% workload redistribution and measurable server cost reduction.
 
 **AI Developer Intern — CollegeTips.in** (Mumbai, India) · Apr–Jun 2025
-Developed and deployed a multilingual AI chatbot with voice I/O and FastAPI-PostgreSQL backend.
-Designed a frontend interface adopted for production use.
 
 **Software Engineering Intern — Marvik Academy** (Udaipur, India) · Nov–Dec 2024
-Built a Flutter notes application with SQLite persistence and custom productivity features.
-Adopted by staff and distributed to students.
 
 ---
 
