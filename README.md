@@ -81,20 +81,6 @@ Adopted by staff and distributed to students.
 
 ---
 
-## Current Focus
-
-Building toward ML research that bridges physics-constrained modeling and data-driven inference.
-Exploring agentic system architectures, uncertainty-aware prediction, and scalable computer vision pipelines.
-
----
-
-## Long-Term Vision
-
-To work at the boundary of AI systems research and applied engineering — contributing to systems
-that are robust enough to be trusted in high-stakes domains: healthcare, security, and science.
-
----
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/jahnvipaliwal/) · [Email](mailto:paliwaljnv08@gmail.com) · [Portfolio](https://jahnvipaliwal.github.io/)
