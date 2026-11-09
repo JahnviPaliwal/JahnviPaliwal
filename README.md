@@ -21,15 +21,6 @@ Databases     PostgreSQL  MongoDB  SQLite
 Tools         Docker  Linux  Git  REST API  GraphQL
 ```
 
----
-
-
-
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JahnviPaliwal\&theme=github-compact)
-
----
 
 ## What I Build
 
@@ -65,7 +56,7 @@ grounded in real problems.
 
 ## Experience
 
-**VINSE Intern at VLED Lab - IIT Ropar** (Ropar, India) . May-Present 2025
+**VINSE Intern at VLED Lab - IIT Ropar** (Ropar, India) . May-Jul 2025
 
 **AI Developer Intern — BPaaS Proceedit** (Barcelona, Spain) · Apr–Nov 2025
 Delivered novel ML and deep learning models achieving 98.7% accuracy, outperforming single-model baselines.
